@@ -1,0 +1,541 @@
+area_code,area_name,date,category,count
+E05000825,Clifford,2018-12,All crime,79
+E05000825,Clifford,2018-12,Anti-social behaviour,6
+E05000825,Clifford,2018-12,Bicycle theft,1
+E05000825,Clifford,2018-12,Burglary,2
+E05000825,Clifford,2018-12,Criminal damage and arson,11
+E05000825,Clifford,2018-12,Drugs,2
+E05000825,Clifford,2018-12,Other crime,2
+E05000825,Clifford,2018-12,Other theft,4
+E05000825,Clifford,2018-12,Possession of weapons,1
+E05000825,Clifford,2018-12,Public order,10
+E05000825,Clifford,2018-12,Robbery,5
+E05000825,Clifford,2018-12,Shoplifting,0
+E05000825,Clifford,2018-12,Theft from the person,1
+E05000825,Clifford,2018-12,Vehicle crime,5
+E05000825,Clifford,2018-12,Violence and sexual offences,35
+E05000825,Clifford,2018-11,All crime,94
+E05000825,Clifford,2018-11,Anti-social behaviour,21
+E05000825,Clifford,2018-11,Bicycle theft,3
+E05000825,Clifford,2018-11,Burglary,4
+E05000825,Clifford,2018-11,Criminal damage and arson,15
+E05000825,Clifford,2018-11,Drugs,2
+E05000825,Clifford,2018-11,Other crime,3
+E05000825,Clifford,2018-11,Other theft,8
+E05000825,Clifford,2018-11,Possession of weapons,1
+E05000825,Clifford,2018-11,Public order,17
+E05000825,Clifford,2018-11,Robbery,1
+E05000825,Clifford,2018-11,Shoplifting,1
+E05000825,Clifford,2018-11,Theft from the person,2
+E05000825,Clifford,2018-11,Vehicle crime,7
+E05000825,Clifford,2018-11,Violence and sexual offences,30
+E05000825,Clifford,2018-10,All crime,108
+E05000825,Clifford,2018-10,Anti-social behaviour,21
+E05000825,Clifford,2018-10,Bicycle theft,0
+E05000825,Clifford,2018-10,Burglary,7
+E05000825,Clifford,2018-10,Criminal damage and arson,8
+E05000825,Clifford,2018-10,Drugs,2
+E05000825,Clifford,2018-10,Other crime,4
+E05000825,Clifford,2018-10,Other theft,7
+E05000825,Clifford,2018-10,Possession of weapons,1
+E05000825,Clifford,2018-10,Public order,22
+E05000825,Clifford,2018-10,Robbery,10
+E05000825,Clifford,2018-10,Shoplifting,1
+E05000825,Clifford,2018-10,Theft from the person,2
+E05000825,Clifford,2018-10,Vehicle crime,7
+E05000825,Clifford,2018-10,Violence and sexual offences,37
+E05000825,Clifford,2018-09,All crime,118
+E05000825,Clifford,2018-09,Anti-social behaviour,23
+E05000825,Clifford,2018-09,Bicycle theft,0
+E05000825,Clifford,2018-09,Burglary,12
+E05000825,Clifford,2018-09,Criminal damage and arson,20
+E05000825,Clifford,2018-09,Drugs,1
+E05000825,Clifford,2018-09,Other crime,0
+E05000825,Clifford,2018-09,Other theft,7
+E05000825,Clifford,2018-09,Possession of weapons,3
+E05000825,Clifford,2018-09,Public order,17
+E05000825,Clifford,2018-09,Robbery,10
+E05000825,Clifford,2018-09,Shoplifting,2
+E05000825,Clifford,2018-09,Theft from the person,0
+E05000825,Clifford,2018-09,Vehicle crime,12
+E05000825,Clifford,2018-09,Violence and sexual offences,34
+E05000825,Clifford,2018-08,All crime,106
+E05000825,Clifford,2018-08,Anti-social behaviour,20
+E05000825,Clifford,2018-08,Bicycle theft,0
+E05000825,Clifford,2018-08,Burglary,12
+E05000825,Clifford,2018-08,Criminal damage and arson,18
+E05000825,Clifford,2018-08,Drugs,5
+E05000825,Clifford,2018-08,Other crime,4
+E05000825,Clifford,2018-08,Other theft,6
+E05000825,Clifford,2018-08,Possession of weapons,1
+E05000825,Clifford,2018-08,Public order,10
+E05000825,Clifford,2018-08,Robbery,5
+E05000825,Clifford,2018-08,Shoplifting,0
+E05000825,Clifford,2018-08,Theft from the person,0
+E05000825,Clifford,2018-08,Vehicle crime,3
+E05000825,Clifford,2018-08,Violence and sexual offences,42
+E05000825,Clifford,2018-07,All crime,103
+E05000825,Clifford,2018-07,Anti-social behaviour,17
+E05000825,Clifford,2018-07,Bicycle theft,2
+E05000825,Clifford,2018-07,Burglary,8
+E05000825,Clifford,2018-07,Criminal damage and arson,12
+E05000825,Clifford,2018-07,Drugs,4
+E05000825,Clifford,2018-07,Other crime,0
+E05000825,Clifford,2018-07,Other theft,11
+E05000825,Clifford,2018-07,Possession of weapons,0
+E05000825,Clifford,2018-07,Public order,17
+E05000825,Clifford,2018-07,Robbery,2
+E05000825,Clifford,2018-07,Shoplifting,2
+E05000825,Clifford,2018-07,Theft from the person,0
+E05000825,Clifford,2018-07,Vehicle crime,3
+E05000825,Clifford,2018-07,Violence and sexual offences,42
+E05000825,Clifford,2018-06,All crime,93
+E05000825,Clifford,2018-06,Anti-social behaviour,21
+E05000825,Clifford,2018-06,Bicycle theft,3
+E05000825,Clifford,2018-06,Burglary,4
+E05000825,Clifford,2018-06,Criminal damage and arson,11
+E05000825,Clifford,2018-06,Drugs,5
+E05000825,Clifford,2018-06,Other crime,3
+E05000825,Clifford,2018-06,Other theft,7
+E05000825,Clifford,2018-06,Possession of weapons,3
+E05000825,Clifford,2018-06,Public order,21
+E05000825,Clifford,2018-06,Robbery,3
+E05000825,Clifford,2018-06,Shoplifting,0
+E05000825,Clifford,2018-06,Theft from the person,1
+E05000825,Clifford,2018-06,Vehicle crime,5
+E05000825,Clifford,2018-06,Violence and sexual offences,27
+E05000825,Clifford,2018-05,All crime,107
+E05000825,Clifford,2018-05,Anti-social behaviour,49
+E05000825,Clifford,2018-05,Bicycle theft,1
+E05000825,Clifford,2018-05,Burglary,12
+E05000825,Clifford,2018-05,Criminal damage and arson,17
+E05000825,Clifford,2018-05,Drugs,2
+E05000825,Clifford,2018-05,Other crime,1
+E05000825,Clifford,2018-05,Other theft,8
+E05000825,Clifford,2018-05,Possession of weapons,2
+E05000825,Clifford,2018-05,Public order,15
+E05000825,Clifford,2018-05,Robbery,3
+E05000825,Clifford,2018-05,Shoplifting,1
+E05000825,Clifford,2018-05,Theft from the person,0
+E05000825,Clifford,2018-05,Vehicle crime,11
+E05000825,Clifford,2018-05,Violence and sexual offences,34
+E05000825,Clifford,2018-04,All crime,101
+E05000825,Clifford,2018-04,Anti-social behaviour,35
+E05000825,Clifford,2018-04,Bicycle theft,1
+E05000825,Clifford,2018-04,Burglary,7
+E05000825,Clifford,2018-04,Criminal damage and arson,11
+E05000825,Clifford,2018-04,Drugs,2
+E05000825,Clifford,2018-04,Other crime,3
+E05000825,Clifford,2018-04,Other theft,5
+E05000825,Clifford,2018-04,Possession of weapons,1
+E05000825,Clifford,2018-04,Public order,19
+E05000825,Clifford,2018-04,Robbery,1
+E05000825,Clifford,2018-04,Shoplifting,2
+E05000825,Clifford,2018-04,Theft from the person,1
+E05000825,Clifford,2018-04,Vehicle crime,8
+E05000825,Clifford,2018-04,Violence and sexual offences,40
+E05000825,Clifford,2018-03,All crime,99
+E05000825,Clifford,2018-03,Anti-social behaviour,20
+E05000825,Clifford,2018-03,Bicycle theft,0
+E05000825,Clifford,2018-03,Burglary,5
+E05000825,Clifford,2018-03,Criminal damage and arson,8
+E05000825,Clifford,2018-03,Drugs,0
+E05000825,Clifford,2018-03,Other crime,3
+E05000825,Clifford,2018-03,Other theft,10
+E05000825,Clifford,2018-03,Possession of weapons,1
+E05000825,Clifford,2018-03,Public order,23
+E05000825,Clifford,2018-03,Robbery,3
+E05000825,Clifford,2018-03,Shoplifting,0
+E05000825,Clifford,2018-03,Theft from the person,0
+E05000825,Clifford,2018-03,Vehicle crime,6
+E05000825,Clifford,2018-03,Violence and sexual offences,40
+E05000825,Clifford,2018-02,All crime,76
+E05000825,Clifford,2018-02,Anti-social behaviour,19
+E05000825,Clifford,2018-02,Bicycle theft,1
+E05000825,Clifford,2018-02,Burglary,2
+E05000825,Clifford,2018-02,Criminal damage and arson,7
+E05000825,Clifford,2018-02,Drugs,5
+E05000825,Clifford,2018-02,Other crime,4
+E05000825,Clifford,2018-02,Other theft,6
+E05000825,Clifford,2018-02,Possession of weapons,1
+E05000825,Clifford,2018-02,Public order,11
+E05000825,Clifford,2018-02,Robbery,3
+E05000825,Clifford,2018-02,Shoplifting,1
+E05000825,Clifford,2018-02,Theft from the person,1
+E05000825,Clifford,2018-02,Vehicle crime,4
+E05000825,Clifford,2018-02,Violence and sexual offences,30
+E05000825,Clifford,2018-01,All crime,86
+E05000825,Clifford,2018-01,Anti-social behaviour,14
+E05000825,Clifford,2018-01,Bicycle theft,0
+E05000825,Clifford,2018-01,Burglary,9
+E05000825,Clifford,2018-01,Criminal damage and arson,6
+E05000825,Clifford,2018-01,Drugs,2
+E05000825,Clifford,2018-01,Other crime,0
+E05000825,Clifford,2018-01,Other theft,10
+E05000825,Clifford,2018-01,Possession of weapons,0
+E05000825,Clifford,2018-01,Public order,15
+E05000825,Clifford,2018-01,Robbery,3
+E05000825,Clifford,2018-01,Shoplifting,0
+E05000825,Clifford,2018-01,Theft from the person,0
+E05000825,Clifford,2018-01,Vehicle crime,7
+E05000825,Clifford,2018-01,Violence and sexual offences,34
+E05000825,Clifford,2017-12,All crime,91
+E05000825,Clifford,2017-12,Anti-social behaviour,14
+E05000825,Clifford,2017-12,Bicycle theft,1
+E05000825,Clifford,2017-12,Burglary,6
+E05000825,Clifford,2017-12,Criminal damage and arson,16
+E05000825,Clifford,2017-12,Drugs,3
+E05000825,Clifford,2017-12,Other crime,2
+E05000825,Clifford,2017-12,Other theft,7
+E05000825,Clifford,2017-12,Possession of weapons,0
+E05000825,Clifford,2017-12,Public order,14
+E05000825,Clifford,2017-12,Robbery,2
+E05000825,Clifford,2017-12,Shoplifting,0
+E05000825,Clifford,2017-12,Theft from the person,0
+E05000825,Clifford,2017-12,Vehicle crime,9
+E05000825,Clifford,2017-12,Violence and sexual offences,31
+E05000825,Clifford,2017-11,All crime,87
+E05000825,Clifford,2017-11,Anti-social behaviour,12
+E05000825,Clifford,2017-11,Bicycle theft,1
+E05000825,Clifford,2017-11,Burglary,11
+E05000825,Clifford,2017-11,Criminal damage and arson,14
+E05000825,Clifford,2017-11,Drugs,4
+E05000825,Clifford,2017-11,Other crime,2
+E05000825,Clifford,2017-11,Other theft,9
+E05000825,Clifford,2017-11,Possession of weapons,1
+E05000825,Clifford,2017-11,Public order,10
+E05000825,Clifford,2017-11,Robbery,3
+E05000825,Clifford,2017-11,Shoplifting,1
+E05000825,Clifford,2017-11,Theft from the person,1
+E05000825,Clifford,2017-11,Vehicle crime,5
+E05000825,Clifford,2017-11,Violence and sexual offences,25
+E05000825,Clifford,2017-10,All crime,89
+E05000825,Clifford,2017-10,Anti-social behaviour,18
+E05000825,Clifford,2017-10,Bicycle theft,0
+E05000825,Clifford,2017-10,Burglary,9
+E05000825,Clifford,2017-10,Criminal damage and arson,9
+E05000825,Clifford,2017-10,Drugs,4
+E05000825,Clifford,2017-10,Other crime,2
+E05000825,Clifford,2017-10,Other theft,6
+E05000825,Clifford,2017-10,Possession of weapons,0
+E05000825,Clifford,2017-10,Public order,10
+E05000825,Clifford,2017-10,Robbery,0
+E05000825,Clifford,2017-10,Shoplifting,0
+E05000825,Clifford,2017-10,Theft from the person,0
+E05000825,Clifford,2017-10,Vehicle crime,13
+E05000825,Clifford,2017-10,Violence and sexual offences,36
+E05000825,Clifford,2017-09,All crime,77
+E05000825,Clifford,2017-09,Anti-social behaviour,22
+E05000825,Clifford,2017-09,Bicycle theft,0
+E05000825,Clifford,2017-09,Burglary,1
+E05000825,Clifford,2017-09,Criminal damage and arson,9
+E05000825,Clifford,2017-09,Drugs,1
+E05000825,Clifford,2017-09,Other crime,2
+E05000825,Clifford,2017-09,Other theft,4
+E05000825,Clifford,2017-09,Possession of weapons,1
+E05000825,Clifford,2017-09,Public order,13
+E05000825,Clifford,2017-09,Robbery,8
+E05000825,Clifford,2017-09,Shoplifting,0
+E05000825,Clifford,2017-09,Theft from the person,0
+E05000825,Clifford,2017-09,Vehicle crime,6
+E05000825,Clifford,2017-09,Violence and sexual offences,32
+E05000825,Clifford,2017-08,All crime,104
+E05000825,Clifford,2017-08,Anti-social behaviour,31
+E05000825,Clifford,2017-08,Bicycle theft,0
+E05000825,Clifford,2017-08,Burglary,9
+E05000825,Clifford,2017-08,Criminal damage and arson,13
+E05000825,Clifford,2017-08,Drugs,2
+E05000825,Clifford,2017-08,Other crime,4
+E05000825,Clifford,2017-08,Other theft,5
+E05000825,Clifford,2017-08,Possession of weapons,1
+E05000825,Clifford,2017-08,Public order,12
+E05000825,Clifford,2017-08,Robbery,5
+E05000825,Clifford,2017-08,Shoplifting,0
+E05000825,Clifford,2017-08,Theft from the person,1
+E05000825,Clifford,2017-08,Vehicle crime,12
+E05000825,Clifford,2017-08,Violence and sexual offences,40
+E05000825,Clifford,2017-07,All crime,115
+E05000825,Clifford,2017-07,Anti-social behaviour,20
+E05000825,Clifford,2017-07,Bicycle theft,3
+E05000825,Clifford,2017-07,Burglary,8
+E05000825,Clifford,2017-07,Criminal damage and arson,18
+E05000825,Clifford,2017-07,Drugs,1
+E05000825,Clifford,2017-07,Other crime,2
+E05000825,Clifford,2017-07,Other theft,12
+E05000825,Clifford,2017-07,Possession of weapons,1
+E05000825,Clifford,2017-07,Public order,17
+E05000825,Clifford,2017-07,Robbery,2
+E05000825,Clifford,2017-07,Shoplifting,0
+E05000825,Clifford,2017-07,Theft from the person,1
+E05000825,Clifford,2017-07,Vehicle crime,9
+E05000825,Clifford,2017-07,Violence and sexual offences,41
+E05000825,Clifford,2017-06,All crime,112
+E05000825,Clifford,2017-06,Anti-social behaviour,32
+E05000825,Clifford,2017-06,Bicycle theft,1
+E05000825,Clifford,2017-06,Burglary,6
+E05000825,Clifford,2017-06,Criminal damage and arson,13
+E05000825,Clifford,2017-06,Drugs,0
+E05000825,Clifford,2017-06,Other crime,1
+E05000825,Clifford,2017-06,Other theft,8
+E05000825,Clifford,2017-06,Possession of weapons,2
+E05000825,Clifford,2017-06,Public order,19
+E05000825,Clifford,2017-06,Robbery,6
+E05000825,Clifford,2017-06,Shoplifting,0
+E05000825,Clifford,2017-06,Theft from the person,1
+E05000825,Clifford,2017-06,Vehicle crime,10
+E05000825,Clifford,2017-06,Violence and sexual offences,45
+E05000825,Clifford,2017-05,All crime,88
+E05000825,Clifford,2017-05,Anti-social behaviour,31
+E05000825,Clifford,2017-05,Bicycle theft,3
+E05000825,Clifford,2017-05,Burglary,4
+E05000825,Clifford,2017-05,Criminal damage and arson,11
+E05000825,Clifford,2017-05,Drugs,0
+E05000825,Clifford,2017-05,Other crime,0
+E05000825,Clifford,2017-05,Other theft,6
+E05000825,Clifford,2017-05,Possession of weapons,1
+E05000825,Clifford,2017-05,Public order,22
+E05000825,Clifford,2017-05,Robbery,2
+E05000825,Clifford,2017-05,Shoplifting,0
+E05000825,Clifford,2017-05,Theft from the person,0
+E05000825,Clifford,2017-05,Vehicle crime,8
+E05000825,Clifford,2017-05,Violence and sexual offences,31
+E05000825,Clifford,2017-04,All crime,98
+E05000825,Clifford,2017-04,Anti-social behaviour,19
+E05000825,Clifford,2017-04,Bicycle theft,1
+E05000825,Clifford,2017-04,Burglary,9
+E05000825,Clifford,2017-04,Criminal damage and arson,11
+E05000825,Clifford,2017-04,Drugs,2
+E05000825,Clifford,2017-04,Other crime,3
+E05000825,Clifford,2017-04,Other theft,15
+E05000825,Clifford,2017-04,Possession of weapons,1
+E05000825,Clifford,2017-04,Public order,18
+E05000825,Clifford,2017-04,Robbery,2
+E05000825,Clifford,2017-04,Shoplifting,0
+E05000825,Clifford,2017-04,Theft from the person,4
+E05000825,Clifford,2017-04,Vehicle crime,4
+E05000825,Clifford,2017-04,Violence and sexual offences,28
+E05000825,Clifford,2017-03,All crime,100
+E05000825,Clifford,2017-03,Anti-social behaviour,22
+E05000825,Clifford,2017-03,Bicycle theft,1
+E05000825,Clifford,2017-03,Burglary,12
+E05000825,Clifford,2017-03,Criminal damage and arson,19
+E05000825,Clifford,2017-03,Drugs,1
+E05000825,Clifford,2017-03,Other crime,1
+E05000825,Clifford,2017-03,Other theft,9
+E05000825,Clifford,2017-03,Possession of weapons,0
+E05000825,Clifford,2017-03,Public order,11
+E05000825,Clifford,2017-03,Robbery,1
+E05000825,Clifford,2017-03,Shoplifting,0
+E05000825,Clifford,2017-03,Theft from the person,3
+E05000825,Clifford,2017-03,Vehicle crime,6
+E05000825,Clifford,2017-03,Violence and sexual offences,36
+E05000825,Clifford,2017-02,All crime,78
+E05000825,Clifford,2017-02,Anti-social behaviour,27
+E05000825,Clifford,2017-02,Bicycle theft,1
+E05000825,Clifford,2017-02,Burglary,7
+E05000825,Clifford,2017-02,Criminal damage and arson,9
+E05000825,Clifford,2017-02,Drugs,2
+E05000825,Clifford,2017-02,Other crime,1
+E05000825,Clifford,2017-02,Other theft,12
+E05000825,Clifford,2017-02,Possession of weapons,1
+E05000825,Clifford,2017-02,Public order,6
+E05000825,Clifford,2017-02,Robbery,1
+E05000825,Clifford,2017-02,Shoplifting,1
+E05000825,Clifford,2017-02,Theft from the person,0
+E05000825,Clifford,2017-02,Vehicle crime,9
+E05000825,Clifford,2017-02,Violence and sexual offences,28
+E05000825,Clifford,2017-01,All crime,86
+E05000825,Clifford,2017-01,Anti-social behaviour,14
+E05000825,Clifford,2017-01,Bicycle theft,0
+E05000825,Clifford,2017-01,Burglary,10
+E05000825,Clifford,2017-01,Criminal damage and arson,7
+E05000825,Clifford,2017-01,Drugs,1
+E05000825,Clifford,2017-01,Other crime,2
+E05000825,Clifford,2017-01,Other theft,3
+E05000825,Clifford,2017-01,Possession of weapons,1
+E05000825,Clifford,2017-01,Public order,10
+E05000825,Clifford,2017-01,Robbery,3
+E05000825,Clifford,2017-01,Shoplifting,1
+E05000825,Clifford,2017-01,Theft from the person,3
+E05000825,Clifford,2017-01,Vehicle crime,13
+E05000825,Clifford,2017-01,Violence and sexual offences,32
+E05000825,Clifford,2016-12,All crime,75
+E05000825,Clifford,2016-12,Anti-social behaviour,22
+E05000825,Clifford,2016-12,Bicycle theft,0
+E05000825,Clifford,2016-12,Burglary,3
+E05000825,Clifford,2016-12,Criminal damage and arson,15
+E05000825,Clifford,2016-12,Drugs,0
+E05000825,Clifford,2016-12,Other crime,0
+E05000825,Clifford,2016-12,Other theft,4
+E05000825,Clifford,2016-12,Possession of weapons,1
+E05000825,Clifford,2016-12,Public order,9
+E05000825,Clifford,2016-12,Robbery,0
+E05000825,Clifford,2016-12,Shoplifting,0
+E05000825,Clifford,2016-12,Theft from the person,0
+E05000825,Clifford,2016-12,Vehicle crime,10
+E05000825,Clifford,2016-12,Violence and sexual offences,33
+E05000825,Clifford,2016-11,All crime,66
+E05000825,Clifford,2016-11,Anti-social behaviour,17
+E05000825,Clifford,2016-11,Bicycle theft,2
+E05000825,Clifford,2016-11,Burglary,8
+E05000825,Clifford,2016-11,Criminal damage and arson,4
+E05000825,Clifford,2016-11,Drugs,2
+E05000825,Clifford,2016-11,Other crime,0
+E05000825,Clifford,2016-11,Other theft,9
+E05000825,Clifford,2016-11,Possession of weapons,1
+E05000825,Clifford,2016-11,Public order,5
+E05000825,Clifford,2016-11,Robbery,1
+E05000825,Clifford,2016-11,Shoplifting,1
+E05000825,Clifford,2016-11,Theft from the person,0
+E05000825,Clifford,2016-11,Vehicle crime,7
+E05000825,Clifford,2016-11,Violence and sexual offences,26
+E05000825,Clifford,2016-10,All crime,62
+E05000825,Clifford,2016-10,Anti-social behaviour,44
+E05000825,Clifford,2016-10,Bicycle theft,0
+E05000825,Clifford,2016-10,Burglary,4
+E05000825,Clifford,2016-10,Criminal damage and arson,8
+E05000825,Clifford,2016-10,Drugs,2
+E05000825,Clifford,2016-10,Other crime,1
+E05000825,Clifford,2016-10,Other theft,4
+E05000825,Clifford,2016-10,Possession of weapons,0
+E05000825,Clifford,2016-10,Public order,10
+E05000825,Clifford,2016-10,Robbery,2
+E05000825,Clifford,2016-10,Shoplifting,0
+E05000825,Clifford,2016-10,Theft from the person,1
+E05000825,Clifford,2016-10,Vehicle crime,4
+E05000825,Clifford,2016-10,Violence and sexual offences,26
+E05000825,Clifford,2016-09,All crime,74
+E05000825,Clifford,2016-09,Anti-social behaviour,42
+E05000825,Clifford,2016-09,Bicycle theft,1
+E05000825,Clifford,2016-09,Burglary,8
+E05000825,Clifford,2016-09,Criminal damage and arson,7
+E05000825,Clifford,2016-09,Drugs,4
+E05000825,Clifford,2016-09,Other crime,1
+E05000825,Clifford,2016-09,Other theft,5
+E05000825,Clifford,2016-09,Possession of weapons,1
+E05000825,Clifford,2016-09,Public order,6
+E05000825,Clifford,2016-09,Robbery,2
+E05000825,Clifford,2016-09,Shoplifting,0
+E05000825,Clifford,2016-09,Theft from the person,1
+E05000825,Clifford,2016-09,Vehicle crime,5
+E05000825,Clifford,2016-09,Violence and sexual offences,33
+E05000825,Clifford,2016-08,All crime,55
+E05000825,Clifford,2016-08,Anti-social behaviour,52
+E05000825,Clifford,2016-08,Bicycle theft,0
+E05000825,Clifford,2016-08,Burglary,6
+E05000825,Clifford,2016-08,Criminal damage and arson,10
+E05000825,Clifford,2016-08,Drugs,2
+E05000825,Clifford,2016-08,Other crime,0
+E05000825,Clifford,2016-08,Other theft,6
+E05000825,Clifford,2016-08,Possession of weapons,0
+E05000825,Clifford,2016-08,Public order,5
+E05000825,Clifford,2016-08,Robbery,0
+E05000825,Clifford,2016-08,Shoplifting,1
+E05000825,Clifford,2016-08,Theft from the person,1
+E05000825,Clifford,2016-08,Vehicle crime,3
+E05000825,Clifford,2016-08,Violence and sexual offences,21
+E05000825,Clifford,2016-07,All crime,56
+E05000825,Clifford,2016-07,Anti-social behaviour,54
+E05000825,Clifford,2016-07,Bicycle theft,0
+E05000825,Clifford,2016-07,Burglary,3
+E05000825,Clifford,2016-07,Criminal damage and arson,14
+E05000825,Clifford,2016-07,Drugs,0
+E05000825,Clifford,2016-07,Other crime,0
+E05000825,Clifford,2016-07,Other theft,3
+E05000825,Clifford,2016-07,Possession of weapons,0
+E05000825,Clifford,2016-07,Public order,3
+E05000825,Clifford,2016-07,Robbery,4
+E05000825,Clifford,2016-07,Shoplifting,1
+E05000825,Clifford,2016-07,Theft from the person,1
+E05000825,Clifford,2016-07,Vehicle crime,4
+E05000825,Clifford,2016-07,Violence and sexual offences,23
+E05000825,Clifford,2016-06,All crime,62
+E05000825,Clifford,2016-06,Anti-social behaviour,36
+E05000825,Clifford,2016-06,Bicycle theft,4
+E05000825,Clifford,2016-06,Burglary,7
+E05000825,Clifford,2016-06,Criminal damage and arson,12
+E05000825,Clifford,2016-06,Drugs,1
+E05000825,Clifford,2016-06,Other crime,1
+E05000825,Clifford,2016-06,Other theft,4
+E05000825,Clifford,2016-06,Possession of weapons,0
+E05000825,Clifford,2016-06,Public order,4
+E05000825,Clifford,2016-06,Robbery,0
+E05000825,Clifford,2016-06,Shoplifting,1
+E05000825,Clifford,2016-06,Theft from the person,0
+E05000825,Clifford,2016-06,Vehicle crime,13
+E05000825,Clifford,2016-06,Violence and sexual offences,15
+E05000825,Clifford,2016-05,All crime,73
+E05000825,Clifford,2016-05,Anti-social behaviour,32
+E05000825,Clifford,2016-05,Bicycle theft,3
+E05000825,Clifford,2016-05,Burglary,8
+E05000825,Clifford,2016-05,Criminal damage and arson,11
+E05000825,Clifford,2016-05,Drugs,2
+E05000825,Clifford,2016-05,Other crime,1
+E05000825,Clifford,2016-05,Other theft,3
+E05000825,Clifford,2016-05,Possession of weapons,0
+E05000825,Clifford,2016-05,Public order,11
+E05000825,Clifford,2016-05,Robbery,1
+E05000825,Clifford,2016-05,Shoplifting,1
+E05000825,Clifford,2016-05,Theft from the person,0
+E05000825,Clifford,2016-05,Vehicle crime,6
+E05000825,Clifford,2016-05,Violence and sexual offences,26
+E05000825,Clifford,2016-04,All crime,48
+E05000825,Clifford,2016-04,Anti-social behaviour,31
+E05000825,Clifford,2016-04,Bicycle theft,0
+E05000825,Clifford,2016-04,Burglary,3
+E05000825,Clifford,2016-04,Criminal damage and arson,6
+E05000825,Clifford,2016-04,Drugs,1
+E05000825,Clifford,2016-04,Other crime,1
+E05000825,Clifford,2016-04,Other theft,4
+E05000825,Clifford,2016-04,Possession of weapons,0
+E05000825,Clifford,2016-04,Public order,5
+E05000825,Clifford,2016-04,Robbery,2
+E05000825,Clifford,2016-04,Shoplifting,1
+E05000825,Clifford,2016-04,Theft from the person,0
+E05000825,Clifford,2016-04,Vehicle crime,7
+E05000825,Clifford,2016-04,Violence and sexual offences,18
+E05000825,Clifford,2016-03,All crime,58
+E05000825,Clifford,2016-03,Anti-social behaviour,33
+E05000825,Clifford,2016-03,Bicycle theft,2
+E05000825,Clifford,2016-03,Burglary,7
+E05000825,Clifford,2016-03,Criminal damage and arson,6
+E05000825,Clifford,2016-03,Drugs,4
+E05000825,Clifford,2016-03,Other crime,0
+E05000825,Clifford,2016-03,Other theft,4
+E05000825,Clifford,2016-03,Possession of weapons,0
+E05000825,Clifford,2016-03,Public order,4
+E05000825,Clifford,2016-03,Robbery,3
+E05000825,Clifford,2016-03,Shoplifting,0
+E05000825,Clifford,2016-03,Theft from the person,2
+E05000825,Clifford,2016-03,Vehicle crime,8
+E05000825,Clifford,2016-03,Violence and sexual offences,18
+E05000825,Clifford,2016-02,All crime,40
+E05000825,Clifford,2016-02,Anti-social behaviour,54
+E05000825,Clifford,2016-02,Bicycle theft,0
+E05000825,Clifford,2016-02,Burglary,7
+E05000825,Clifford,2016-02,Criminal damage and arson,8
+E05000825,Clifford,2016-02,Drugs,2
+E05000825,Clifford,2016-02,Other crime,1
+E05000825,Clifford,2016-02,Other theft,3
+E05000825,Clifford,2016-02,Possession of weapons,0
+E05000825,Clifford,2016-02,Public order,3
+E05000825,Clifford,2016-02,Robbery,2
+E05000825,Clifford,2016-02,Shoplifting,0
+E05000825,Clifford,2016-02,Theft from the person,2
+E05000825,Clifford,2016-02,Vehicle crime,2
+E05000825,Clifford,2016-02,Violence and sexual offences,10
+E05000825,Clifford,2016-01,All crime,47
+E05000825,Clifford,2016-01,Anti-social behaviour,23
+E05000825,Clifford,2016-01,Bicycle theft,0
+E05000825,Clifford,2016-01,Burglary,3
+E05000825,Clifford,2016-01,Criminal damage and arson,8
+E05000825,Clifford,2016-01,Drugs,3
+E05000825,Clifford,2016-01,Other crime,0
+E05000825,Clifford,2016-01,Other theft,7
+E05000825,Clifford,2016-01,Possession of weapons,0
+E05000825,Clifford,2016-01,Public order,5
+E05000825,Clifford,2016-01,Robbery,2
+E05000825,Clifford,2016-01,Shoplifting,1
+E05000825,Clifford,2016-01,Theft from the person,0
+E05000825,Clifford,2016-01,Vehicle crime,5
+E05000825,Clifford,2016-01,Violence and sexual offences,13
