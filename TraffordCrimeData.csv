@@ -1,0 +1,541 @@
+area_code,area_name,date,category,count
+E08000009,Trafford,2018-12,All crime,1501
+E08000009,Trafford,2018-12,Anti-social behaviour,194
+E08000009,Trafford,2018-12,Bicycle theft,15
+E08000009,Trafford,2018-12,Burglary,145
+E08000009,Trafford,2018-12,Criminal damage and arson,144
+E08000009,Trafford,2018-12,Drugs,29
+E08000009,Trafford,2018-12,Other crime,25
+E08000009,Trafford,2018-12,Other theft,130
+E08000009,Trafford,2018-12,Possession of weapons,12
+E08000009,Trafford,2018-12,Public order,192
+E08000009,Trafford,2018-12,Robbery,49
+E08000009,Trafford,2018-12,Shoplifting,94
+E08000009,Trafford,2018-12,Theft from the person,31
+E08000009,Trafford,2018-12,Vehicle crime,119
+E08000009,Trafford,2018-12,Violence and sexual offences,516
+E08000009,Trafford,2018-11,All crime,1628
+E08000009,Trafford,2018-11,Anti-social behaviour,231
+E08000009,Trafford,2018-11,Bicycle theft,31
+E08000009,Trafford,2018-11,Burglary,212
+E08000009,Trafford,2018-11,Criminal damage and arson,146
+E08000009,Trafford,2018-11,Drugs,24
+E08000009,Trafford,2018-11,Other crime,36
+E08000009,Trafford,2018-11,Other theft,118
+E08000009,Trafford,2018-11,Possession of weapons,18
+E08000009,Trafford,2018-11,Public order,228
+E08000009,Trafford,2018-11,Robbery,46
+E08000009,Trafford,2018-11,Shoplifting,131
+E08000009,Trafford,2018-11,Theft from the person,26
+E08000009,Trafford,2018-11,Vehicle crime,147
+E08000009,Trafford,2018-11,Violence and sexual offences,465
+E08000009,Trafford,2018-10,All crime,1618
+E08000009,Trafford,2018-10,Anti-social behaviour,270
+E08000009,Trafford,2018-10,Bicycle theft,36
+E08000009,Trafford,2018-10,Burglary,140
+E08000009,Trafford,2018-10,Criminal damage and arson,167
+E08000009,Trafford,2018-10,Drugs,27
+E08000009,Trafford,2018-10,Other crime,29
+E08000009,Trafford,2018-10,Other theft,126
+E08000009,Trafford,2018-10,Possession of weapons,17
+E08000009,Trafford,2018-10,Public order,236
+E08000009,Trafford,2018-10,Robbery,52
+E08000009,Trafford,2018-10,Shoplifting,129
+E08000009,Trafford,2018-10,Theft from the person,27
+E08000009,Trafford,2018-10,Vehicle crime,120
+E08000009,Trafford,2018-10,Violence and sexual offences,512
+E08000009,Trafford,2018-09,All crime,1535
+E08000009,Trafford,2018-09,Anti-social behaviour,250
+E08000009,Trafford,2018-09,Bicycle theft,26
+E08000009,Trafford,2018-09,Burglary,125
+E08000009,Trafford,2018-09,Criminal damage and arson,181
+E08000009,Trafford,2018-09,Drugs,25
+E08000009,Trafford,2018-09,Other crime,33
+E08000009,Trafford,2018-09,Other theft,103
+E08000009,Trafford,2018-09,Possession of weapons,19
+E08000009,Trafford,2018-09,Public order,216
+E08000009,Trafford,2018-09,Robbery,35
+E08000009,Trafford,2018-09,Shoplifting,112
+E08000009,Trafford,2018-09,Theft from the person,14
+E08000009,Trafford,2018-09,Vehicle crime,142
+E08000009,Trafford,2018-09,Violence and sexual offences,504
+E08000009,Trafford,2018-08,All crime,1527
+E08000009,Trafford,2018-08,Anti-social behaviour,250
+E08000009,Trafford,2018-08,Bicycle theft,39
+E08000009,Trafford,2018-08,Burglary,140
+E08000009,Trafford,2018-08,Criminal damage and arson,158
+E08000009,Trafford,2018-08,Drugs,22
+E08000009,Trafford,2018-08,Other crime,24
+E08000009,Trafford,2018-08,Other theft,137
+E08000009,Trafford,2018-08,Possession of weapons,14
+E08000009,Trafford,2018-08,Public order,226
+E08000009,Trafford,2018-08,Robbery,40
+E08000009,Trafford,2018-08,Shoplifting,101
+E08000009,Trafford,2018-08,Theft from the person,20
+E08000009,Trafford,2018-08,Vehicle crime,138
+E08000009,Trafford,2018-08,Violence and sexual offences,468
+E08000009,Trafford,2018-07,All crime,1701
+E08000009,Trafford,2018-07,Anti-social behaviour,232
+E08000009,Trafford,2018-07,Bicycle theft,40
+E08000009,Trafford,2018-07,Burglary,147
+E08000009,Trafford,2018-07,Criminal damage and arson,140
+E08000009,Trafford,2018-07,Drugs,31
+E08000009,Trafford,2018-07,Other crime,19
+E08000009,Trafford,2018-07,Other theft,116
+E08000009,Trafford,2018-07,Possession of weapons,9
+E08000009,Trafford,2018-07,Public order,297
+E08000009,Trafford,2018-07,Robbery,29
+E08000009,Trafford,2018-07,Shoplifting,135
+E08000009,Trafford,2018-07,Theft from the person,20
+E08000009,Trafford,2018-07,Vehicle crime,127
+E08000009,Trafford,2018-07,Violence and sexual offences,591
+E08000009,Trafford,2018-06,All crime,1595
+E08000009,Trafford,2018-06,Anti-social behaviour,238
+E08000009,Trafford,2018-06,Bicycle theft,48
+E08000009,Trafford,2018-06,Burglary,127
+E08000009,Trafford,2018-06,Criminal damage and arson,170
+E08000009,Trafford,2018-06,Drugs,22
+E08000009,Trafford,2018-06,Other crime,26
+E08000009,Trafford,2018-06,Other theft,119
+E08000009,Trafford,2018-06,Possession of weapons,21
+E08000009,Trafford,2018-06,Public order,257
+E08000009,Trafford,2018-06,Robbery,27
+E08000009,Trafford,2018-06,Shoplifting,104
+E08000009,Trafford,2018-06,Theft from the person,20
+E08000009,Trafford,2018-06,Vehicle crime,119
+E08000009,Trafford,2018-06,Violence and sexual offences,535
+E08000009,Trafford,2018-05,All crime,1584
+E08000009,Trafford,2018-05,Anti-social behaviour,370
+E08000009,Trafford,2018-05,Bicycle theft,56
+E08000009,Trafford,2018-05,Burglary,149
+E08000009,Trafford,2018-05,Criminal damage and arson,159
+E08000009,Trafford,2018-05,Drugs,19
+E08000009,Trafford,2018-05,Other crime,19
+E08000009,Trafford,2018-05,Other theft,143
+E08000009,Trafford,2018-05,Possession of weapons,11
+E08000009,Trafford,2018-05,Public order,258
+E08000009,Trafford,2018-05,Robbery,33
+E08000009,Trafford,2018-05,Shoplifting,86
+E08000009,Trafford,2018-05,Theft from the person,19
+E08000009,Trafford,2018-05,Vehicle crime,144
+E08000009,Trafford,2018-05,Violence and sexual offences,488
+E08000009,Trafford,2018-04,All crime,1505
+E08000009,Trafford,2018-04,Anti-social behaviour,301
+E08000009,Trafford,2018-04,Bicycle theft,23
+E08000009,Trafford,2018-04,Burglary,156
+E08000009,Trafford,2018-04,Criminal damage and arson,130
+E08000009,Trafford,2018-04,Drugs,29
+E08000009,Trafford,2018-04,Other crime,29
+E08000009,Trafford,2018-04,Other theft,108
+E08000009,Trafford,2018-04,Possession of weapons,17
+E08000009,Trafford,2018-04,Public order,236
+E08000009,Trafford,2018-04,Robbery,37
+E08000009,Trafford,2018-04,Shoplifting,115
+E08000009,Trafford,2018-04,Theft from the person,17
+E08000009,Trafford,2018-04,Vehicle crime,143
+E08000009,Trafford,2018-04,Violence and sexual offences,465
+E08000009,Trafford,2018-03,All crime,1546
+E08000009,Trafford,2018-03,Anti-social behaviour,273
+E08000009,Trafford,2018-03,Bicycle theft,25
+E08000009,Trafford,2018-03,Burglary,132
+E08000009,Trafford,2018-03,Criminal damage and arson,185
+E08000009,Trafford,2018-03,Drugs,22
+E08000009,Trafford,2018-03,Other crime,18
+E08000009,Trafford,2018-03,Other theft,133
+E08000009,Trafford,2018-03,Possession of weapons,14
+E08000009,Trafford,2018-03,Public order,237
+E08000009,Trafford,2018-03,Robbery,39
+E08000009,Trafford,2018-03,Shoplifting,101
+E08000009,Trafford,2018-03,Theft from the person,29
+E08000009,Trafford,2018-03,Vehicle crime,117
+E08000009,Trafford,2018-03,Violence and sexual offences,494
+E08000009,Trafford,2018-02,All crime,1368
+E08000009,Trafford,2018-02,Anti-social behaviour,234
+E08000009,Trafford,2018-02,Bicycle theft,21
+E08000009,Trafford,2018-02,Burglary,129
+E08000009,Trafford,2018-02,Criminal damage and arson,135
+E08000009,Trafford,2018-02,Drugs,24
+E08000009,Trafford,2018-02,Other crime,20
+E08000009,Trafford,2018-02,Other theft,93
+E08000009,Trafford,2018-02,Possession of weapons,12
+E08000009,Trafford,2018-02,Public order,202
+E08000009,Trafford,2018-02,Robbery,37
+E08000009,Trafford,2018-02,Shoplifting,114
+E08000009,Trafford,2018-02,Theft from the person,21
+E08000009,Trafford,2018-02,Vehicle crime,90
+E08000009,Trafford,2018-02,Violence and sexual offences,470
+E08000009,Trafford,2018-01,All crime,1397
+E08000009,Trafford,2018-01,Anti-social behaviour,232
+E08000009,Trafford,2018-01,Bicycle theft,22
+E08000009,Trafford,2018-01,Burglary,134
+E08000009,Trafford,2018-01,Criminal damage and arson,161
+E08000009,Trafford,2018-01,Drugs,21
+E08000009,Trafford,2018-01,Other crime,18
+E08000009,Trafford,2018-01,Other theft,99
+E08000009,Trafford,2018-01,Possession of weapons,8
+E08000009,Trafford,2018-01,Public order,180
+E08000009,Trafford,2018-01,Robbery,42
+E08000009,Trafford,2018-01,Shoplifting,93
+E08000009,Trafford,2018-01,Theft from the person,23
+E08000009,Trafford,2018-01,Vehicle crime,125
+E08000009,Trafford,2018-01,Violence and sexual offences,471
+E08000009,Trafford,2017-12,All crime,1514
+E08000009,Trafford,2017-12,Anti-social behaviour,268
+E08000009,Trafford,2017-12,Bicycle theft,22
+E08000009,Trafford,2017-12,Burglary,144
+E08000009,Trafford,2017-12,Criminal damage and arson,169
+E08000009,Trafford,2017-12,Drugs,30
+E08000009,Trafford,2017-12,Other crime,25
+E08000009,Trafford,2017-12,Other theft,118
+E08000009,Trafford,2017-12,Possession of weapons,5
+E08000009,Trafford,2017-12,Public order,224
+E08000009,Trafford,2017-12,Robbery,36
+E08000009,Trafford,2017-12,Shoplifting,101
+E08000009,Trafford,2017-12,Theft from the person,32
+E08000009,Trafford,2017-12,Vehicle crime,100
+E08000009,Trafford,2017-12,Violence and sexual offences,508
+E08000009,Trafford,2017-11,All crime,1583
+E08000009,Trafford,2017-11,Anti-social behaviour,318
+E08000009,Trafford,2017-11,Bicycle theft,33
+E08000009,Trafford,2017-11,Burglary,140
+E08000009,Trafford,2017-11,Criminal damage and arson,199
+E08000009,Trafford,2017-11,Drugs,31
+E08000009,Trafford,2017-11,Other crime,15
+E08000009,Trafford,2017-11,Other theft,127
+E08000009,Trafford,2017-11,Possession of weapons,11
+E08000009,Trafford,2017-11,Public order,225
+E08000009,Trafford,2017-11,Robbery,32
+E08000009,Trafford,2017-11,Shoplifting,126
+E08000009,Trafford,2017-11,Theft from the person,31
+E08000009,Trafford,2017-11,Vehicle crime,104
+E08000009,Trafford,2017-11,Violence and sexual offences,509
+E08000009,Trafford,2017-10,All crime,1578
+E08000009,Trafford,2017-10,Anti-social behaviour,401
+E08000009,Trafford,2017-10,Bicycle theft,32
+E08000009,Trafford,2017-10,Burglary,143
+E08000009,Trafford,2017-10,Criminal damage and arson,195
+E08000009,Trafford,2017-10,Drugs,23
+E08000009,Trafford,2017-10,Other crime,21
+E08000009,Trafford,2017-10,Other theft,129
+E08000009,Trafford,2017-10,Possession of weapons,11
+E08000009,Trafford,2017-10,Public order,215
+E08000009,Trafford,2017-10,Robbery,28
+E08000009,Trafford,2017-10,Shoplifting,134
+E08000009,Trafford,2017-10,Theft from the person,13
+E08000009,Trafford,2017-10,Vehicle crime,137
+E08000009,Trafford,2017-10,Violence and sexual offences,497
+E08000009,Trafford,2017-09,All crime,1490
+E08000009,Trafford,2017-09,Anti-social behaviour,320
+E08000009,Trafford,2017-09,Bicycle theft,32
+E08000009,Trafford,2017-09,Burglary,132
+E08000009,Trafford,2017-09,Criminal damage and arson,152
+E08000009,Trafford,2017-09,Drugs,17
+E08000009,Trafford,2017-09,Other crime,23
+E08000009,Trafford,2017-09,Other theft,103
+E08000009,Trafford,2017-09,Possession of weapons,10
+E08000009,Trafford,2017-09,Public order,210
+E08000009,Trafford,2017-09,Robbery,41
+E08000009,Trafford,2017-09,Shoplifting,125
+E08000009,Trafford,2017-09,Theft from the person,8
+E08000009,Trafford,2017-09,Vehicle crime,115
+E08000009,Trafford,2017-09,Violence and sexual offences,522
+E08000009,Trafford,2017-08,All crime,1556
+E08000009,Trafford,2017-08,Anti-social behaviour,388
+E08000009,Trafford,2017-08,Bicycle theft,37
+E08000009,Trafford,2017-08,Burglary,155
+E08000009,Trafford,2017-08,Criminal damage and arson,181
+E08000009,Trafford,2017-08,Drugs,22
+E08000009,Trafford,2017-08,Other crime,29
+E08000009,Trafford,2017-08,Other theft,101
+E08000009,Trafford,2017-08,Possession of weapons,9
+E08000009,Trafford,2017-08,Public order,235
+E08000009,Trafford,2017-08,Robbery,34
+E08000009,Trafford,2017-08,Shoplifting,102
+E08000009,Trafford,2017-08,Theft from the person,16
+E08000009,Trafford,2017-08,Vehicle crime,189
+E08000009,Trafford,2017-08,Violence and sexual offences,446
+E08000009,Trafford,2017-07,All crime,1728
+E08000009,Trafford,2017-07,Anti-social behaviour,361
+E08000009,Trafford,2017-07,Bicycle theft,51
+E08000009,Trafford,2017-07,Burglary,182
+E08000009,Trafford,2017-07,Criminal damage and arson,175
+E08000009,Trafford,2017-07,Drugs,14
+E08000009,Trafford,2017-07,Other crime,25
+E08000009,Trafford,2017-07,Other theft,145
+E08000009,Trafford,2017-07,Possession of weapons,14
+E08000009,Trafford,2017-07,Public order,278
+E08000009,Trafford,2017-07,Robbery,25
+E08000009,Trafford,2017-07,Shoplifting,120
+E08000009,Trafford,2017-07,Theft from the person,19
+E08000009,Trafford,2017-07,Vehicle crime,132
+E08000009,Trafford,2017-07,Violence and sexual offences,548
+E08000009,Trafford,2017-06,All crime,1568
+E08000009,Trafford,2017-06,Anti-social behaviour,434
+E08000009,Trafford,2017-06,Bicycle theft,54
+E08000009,Trafford,2017-06,Burglary,177
+E08000009,Trafford,2017-06,Criminal damage and arson,162
+E08000009,Trafford,2017-06,Drugs,17
+E08000009,Trafford,2017-06,Other crime,32
+E08000009,Trafford,2017-06,Other theft,97
+E08000009,Trafford,2017-06,Possession of weapons,7
+E08000009,Trafford,2017-06,Public order,211
+E08000009,Trafford,2017-06,Robbery,34
+E08000009,Trafford,2017-06,Shoplifting,123
+E08000009,Trafford,2017-06,Theft from the person,11
+E08000009,Trafford,2017-06,Vehicle crime,124
+E08000009,Trafford,2017-06,Violence and sexual offences,519
+E08000009,Trafford,2017-05,All crime,1478
+E08000009,Trafford,2017-05,Anti-social behaviour,432
+E08000009,Trafford,2017-05,Bicycle theft,38
+E08000009,Trafford,2017-05,Burglary,153
+E08000009,Trafford,2017-05,Criminal damage and arson,172
+E08000009,Trafford,2017-05,Drugs,31
+E08000009,Trafford,2017-05,Other crime,19
+E08000009,Trafford,2017-05,Other theft,115
+E08000009,Trafford,2017-05,Possession of weapons,6
+E08000009,Trafford,2017-05,Public order,198
+E08000009,Trafford,2017-05,Robbery,33
+E08000009,Trafford,2017-05,Shoplifting,131
+E08000009,Trafford,2017-05,Theft from the person,21
+E08000009,Trafford,2017-05,Vehicle crime,134
+E08000009,Trafford,2017-05,Violence and sexual offences,427
+E08000009,Trafford,2017-04,All crime,1396
+E08000009,Trafford,2017-04,Anti-social behaviour,468
+E08000009,Trafford,2017-04,Bicycle theft,30
+E08000009,Trafford,2017-04,Burglary,147
+E08000009,Trafford,2017-04,Criminal damage and arson,186
+E08000009,Trafford,2017-04,Drugs,18
+E08000009,Trafford,2017-04,Other crime,23
+E08000009,Trafford,2017-04,Other theft,106
+E08000009,Trafford,2017-04,Possession of weapons,6
+E08000009,Trafford,2017-04,Public order,172
+E08000009,Trafford,2017-04,Robbery,51
+E08000009,Trafford,2017-04,Shoplifting,139
+E08000009,Trafford,2017-04,Theft from the person,13
+E08000009,Trafford,2017-04,Vehicle crime,79
+E08000009,Trafford,2017-04,Violence and sexual offences,426
+E08000009,Trafford,2017-03,All crime,1484
+E08000009,Trafford,2017-03,Anti-social behaviour,427
+E08000009,Trafford,2017-03,Bicycle theft,30
+E08000009,Trafford,2017-03,Burglary,154
+E08000009,Trafford,2017-03,Criminal damage and arson,173
+E08000009,Trafford,2017-03,Drugs,14
+E08000009,Trafford,2017-03,Other crime,26
+E08000009,Trafford,2017-03,Other theft,112
+E08000009,Trafford,2017-03,Possession of weapons,3
+E08000009,Trafford,2017-03,Public order,177
+E08000009,Trafford,2017-03,Robbery,24
+E08000009,Trafford,2017-03,Shoplifting,178
+E08000009,Trafford,2017-03,Theft from the person,20
+E08000009,Trafford,2017-03,Vehicle crime,113
+E08000009,Trafford,2017-03,Violence and sexual offences,460
+E08000009,Trafford,2017-02,All crime,1276
+E08000009,Trafford,2017-02,Anti-social behaviour,376
+E08000009,Trafford,2017-02,Bicycle theft,20
+E08000009,Trafford,2017-02,Burglary,170
+E08000009,Trafford,2017-02,Criminal damage and arson,155
+E08000009,Trafford,2017-02,Drugs,24
+E08000009,Trafford,2017-02,Other crime,26
+E08000009,Trafford,2017-02,Other theft,110
+E08000009,Trafford,2017-02,Possession of weapons,4
+E08000009,Trafford,2017-02,Public order,125
+E08000009,Trafford,2017-02,Robbery,22
+E08000009,Trafford,2017-02,Shoplifting,124
+E08000009,Trafford,2017-02,Theft from the person,33
+E08000009,Trafford,2017-02,Vehicle crime,116
+E08000009,Trafford,2017-02,Violence and sexual offences,347
+E08000009,Trafford,2017-01,All crime,1345
+E08000009,Trafford,2017-01,Anti-social behaviour,341
+E08000009,Trafford,2017-01,Bicycle theft,24
+E08000009,Trafford,2017-01,Burglary,175
+E08000009,Trafford,2017-01,Criminal damage and arson,148
+E08000009,Trafford,2017-01,Drugs,19
+E08000009,Trafford,2017-01,Other crime,26
+E08000009,Trafford,2017-01,Other theft,99
+E08000009,Trafford,2017-01,Possession of weapons,6
+E08000009,Trafford,2017-01,Public order,125
+E08000009,Trafford,2017-01,Robbery,19
+E08000009,Trafford,2017-01,Shoplifting,122
+E08000009,Trafford,2017-01,Theft from the person,22
+E08000009,Trafford,2017-01,Vehicle crime,146
+E08000009,Trafford,2017-01,Violence and sexual offences,414
+E08000009,Trafford,2016-12,All crime,1411
+E08000009,Trafford,2016-12,Anti-social behaviour,389
+E08000009,Trafford,2016-12,Bicycle theft,24
+E08000009,Trafford,2016-12,Burglary,198
+E08000009,Trafford,2016-12,Criminal damage and arson,202
+E08000009,Trafford,2016-12,Drugs,13
+E08000009,Trafford,2016-12,Other crime,20
+E08000009,Trafford,2016-12,Other theft,112
+E08000009,Trafford,2016-12,Possession of weapons,9
+E08000009,Trafford,2016-12,Public order,118
+E08000009,Trafford,2016-12,Robbery,27
+E08000009,Trafford,2016-12,Shoplifting,142
+E08000009,Trafford,2016-12,Theft from the person,24
+E08000009,Trafford,2016-12,Vehicle crime,149
+E08000009,Trafford,2016-12,Violence and sexual offences,373
+E08000009,Trafford,2016-11,All crime,1340
+E08000009,Trafford,2016-11,Anti-social behaviour,399
+E08000009,Trafford,2016-11,Bicycle theft,40
+E08000009,Trafford,2016-11,Burglary,160
+E08000009,Trafford,2016-11,Criminal damage and arson,168
+E08000009,Trafford,2016-11,Drugs,11
+E08000009,Trafford,2016-11,Other crime,19
+E08000009,Trafford,2016-11,Other theft,108
+E08000009,Trafford,2016-11,Possession of weapons,4
+E08000009,Trafford,2016-11,Public order,108
+E08000009,Trafford,2016-11,Robbery,21
+E08000009,Trafford,2016-11,Shoplifting,143
+E08000009,Trafford,2016-11,Theft from the person,28
+E08000009,Trafford,2016-11,Vehicle crime,126
+E08000009,Trafford,2016-11,Violence and sexual offences,404
+E08000009,Trafford,2016-10,All crime,1299
+E08000009,Trafford,2016-10,Anti-social behaviour,511
+E08000009,Trafford,2016-10,Bicycle theft,49
+E08000009,Trafford,2016-10,Burglary,102
+E08000009,Trafford,2016-10,Criminal damage and arson,192
+E08000009,Trafford,2016-10,Drugs,22
+E08000009,Trafford,2016-10,Other crime,19
+E08000009,Trafford,2016-10,Other theft,134
+E08000009,Trafford,2016-10,Possession of weapons,2
+E08000009,Trafford,2016-10,Public order,148
+E08000009,Trafford,2016-10,Robbery,16
+E08000009,Trafford,2016-10,Shoplifting,130
+E08000009,Trafford,2016-10,Theft from the person,16
+E08000009,Trafford,2016-10,Vehicle crime,100
+E08000009,Trafford,2016-10,Violence and sexual offences,369
+E08000009,Trafford,2016-09,All crime,1092
+E08000009,Trafford,2016-09,Anti-social behaviour,557
+E08000009,Trafford,2016-09,Bicycle theft,29
+E08000009,Trafford,2016-09,Burglary,136
+E08000009,Trafford,2016-09,Criminal damage and arson,153
+E08000009,Trafford,2016-09,Drugs,24
+E08000009,Trafford,2016-09,Other crime,21
+E08000009,Trafford,2016-09,Other theft,100
+E08000009,Trafford,2016-09,Possession of weapons,4
+E08000009,Trafford,2016-09,Public order,100
+E08000009,Trafford,2016-09,Robbery,16
+E08000009,Trafford,2016-09,Shoplifting,106
+E08000009,Trafford,2016-09,Theft from the person,19
+E08000009,Trafford,2016-09,Vehicle crime,71
+E08000009,Trafford,2016-09,Violence and sexual offences,313
+E08000009,Trafford,2016-08,All crime,1030
+E08000009,Trafford,2016-08,Anti-social behaviour,638
+E08000009,Trafford,2016-08,Bicycle theft,29
+E08000009,Trafford,2016-08,Burglary,104
+E08000009,Trafford,2016-08,Criminal damage and arson,154
+E08000009,Trafford,2016-08,Drugs,20
+E08000009,Trafford,2016-08,Other crime,9
+E08000009,Trafford,2016-08,Other theft,123
+E08000009,Trafford,2016-08,Possession of weapons,4
+E08000009,Trafford,2016-08,Public order,79
+E08000009,Trafford,2016-08,Robbery,17
+E08000009,Trafford,2016-08,Shoplifting,111
+E08000009,Trafford,2016-08,Theft from the person,17
+E08000009,Trafford,2016-08,Vehicle crime,78
+E08000009,Trafford,2016-08,Violence and sexual offences,285
+E08000009,Trafford,2016-07,All crime,1042
+E08000009,Trafford,2016-07,Anti-social behaviour,662
+E08000009,Trafford,2016-07,Bicycle theft,40
+E08000009,Trafford,2016-07,Burglary,94
+E08000009,Trafford,2016-07,Criminal damage and arson,177
+E08000009,Trafford,2016-07,Drugs,13
+E08000009,Trafford,2016-07,Other crime,10
+E08000009,Trafford,2016-07,Other theft,91
+E08000009,Trafford,2016-07,Possession of weapons,4
+E08000009,Trafford,2016-07,Public order,106
+E08000009,Trafford,2016-07,Robbery,11
+E08000009,Trafford,2016-07,Shoplifting,115
+E08000009,Trafford,2016-07,Theft from the person,23
+E08000009,Trafford,2016-07,Vehicle crime,76
+E08000009,Trafford,2016-07,Violence and sexual offences,282
+E08000009,Trafford,2016-06,All crime,990
+E08000009,Trafford,2016-06,Anti-social behaviour,579
+E08000009,Trafford,2016-06,Bicycle theft,34
+E08000009,Trafford,2016-06,Burglary,93
+E08000009,Trafford,2016-06,Criminal damage and arson,155
+E08000009,Trafford,2016-06,Drugs,18
+E08000009,Trafford,2016-06,Other crime,8
+E08000009,Trafford,2016-06,Other theft,95
+E08000009,Trafford,2016-06,Possession of weapons,5
+E08000009,Trafford,2016-06,Public order,85
+E08000009,Trafford,2016-06,Robbery,12
+E08000009,Trafford,2016-06,Shoplifting,124
+E08000009,Trafford,2016-06,Theft from the person,18
+E08000009,Trafford,2016-06,Vehicle crime,93
+E08000009,Trafford,2016-06,Violence and sexual offences,250
+E08000009,Trafford,2016-05,All crime,1043
+E08000009,Trafford,2016-05,Anti-social behaviour,601
+E08000009,Trafford,2016-05,Bicycle theft,26
+E08000009,Trafford,2016-05,Burglary,117
+E08000009,Trafford,2016-05,Criminal damage and arson,157
+E08000009,Trafford,2016-05,Drugs,24
+E08000009,Trafford,2016-05,Other crime,21
+E08000009,Trafford,2016-05,Other theft,114
+E08000009,Trafford,2016-05,Possession of weapons,3
+E08000009,Trafford,2016-05,Public order,79
+E08000009,Trafford,2016-05,Robbery,15
+E08000009,Trafford,2016-05,Shoplifting,94
+E08000009,Trafford,2016-05,Theft from the person,18
+E08000009,Trafford,2016-05,Vehicle crime,82
+E08000009,Trafford,2016-05,Violence and sexual offences,293
+E08000009,Trafford,2016-04,All crime,1018
+E08000009,Trafford,2016-04,Anti-social behaviour,518
+E08000009,Trafford,2016-04,Bicycle theft,26
+E08000009,Trafford,2016-04,Burglary,117
+E08000009,Trafford,2016-04,Criminal damage and arson,140
+E08000009,Trafford,2016-04,Drugs,25
+E08000009,Trafford,2016-04,Other crime,16
+E08000009,Trafford,2016-04,Other theft,89
+E08000009,Trafford,2016-04,Possession of weapons,4
+E08000009,Trafford,2016-04,Public order,75
+E08000009,Trafford,2016-04,Robbery,14
+E08000009,Trafford,2016-04,Shoplifting,135
+E08000009,Trafford,2016-04,Theft from the person,18
+E08000009,Trafford,2016-04,Vehicle crime,93
+E08000009,Trafford,2016-04,Violence and sexual offences,266
+E08000009,Trafford,2016-03,All crime,998
+E08000009,Trafford,2016-03,Anti-social behaviour,498
+E08000009,Trafford,2016-03,Bicycle theft,24
+E08000009,Trafford,2016-03,Burglary,129
+E08000009,Trafford,2016-03,Criminal damage and arson,152
+E08000009,Trafford,2016-03,Drugs,21
+E08000009,Trafford,2016-03,Other crime,18
+E08000009,Trafford,2016-03,Other theft,87
+E08000009,Trafford,2016-03,Possession of weapons,3
+E08000009,Trafford,2016-03,Public order,85
+E08000009,Trafford,2016-03,Robbery,14
+E08000009,Trafford,2016-03,Shoplifting,110
+E08000009,Trafford,2016-03,Theft from the person,21
+E08000009,Trafford,2016-03,Vehicle crime,96
+E08000009,Trafford,2016-03,Violence and sexual offences,238
+E08000009,Trafford,2016-02,All crime,934
+E08000009,Trafford,2016-02,Anti-social behaviour,499
+E08000009,Trafford,2016-02,Bicycle theft,15
+E08000009,Trafford,2016-02,Burglary,105
+E08000009,Trafford,2016-02,Criminal damage and arson,127
+E08000009,Trafford,2016-02,Drugs,20
+E08000009,Trafford,2016-02,Other crime,12
+E08000009,Trafford,2016-02,Other theft,87
+E08000009,Trafford,2016-02,Possession of weapons,5
+E08000009,Trafford,2016-02,Public order,60
+E08000009,Trafford,2016-02,Robbery,12
+E08000009,Trafford,2016-02,Shoplifting,137
+E08000009,Trafford,2016-02,Theft from the person,25
+E08000009,Trafford,2016-02,Vehicle crime,99
+E08000009,Trafford,2016-02,Violence and sexual offences,230
+E08000009,Trafford,2016-01,All crime,943
+E08000009,Trafford,2016-01,Anti-social behaviour,416
+E08000009,Trafford,2016-01,Bicycle theft,22
+E08000009,Trafford,2016-01,Burglary,129
+E08000009,Trafford,2016-01,Criminal damage and arson,138
+E08000009,Trafford,2016-01,Drugs,20
+E08000009,Trafford,2016-01,Other crime,10
+E08000009,Trafford,2016-01,Other theft,106
+E08000009,Trafford,2016-01,Possession of weapons,7
+E08000009,Trafford,2016-01,Public order,55
+E08000009,Trafford,2016-01,Robbery,27
+E08000009,Trafford,2016-01,Shoplifting,104
+E08000009,Trafford,2016-01,Theft from the person,15
+E08000009,Trafford,2016-01,Vehicle crime,75
+E08000009,Trafford,2016-01,Violence and sexual offences,235
